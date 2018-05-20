@@ -1,2 +1,2 @@
-# 3ds-Homebrew-Starter-pack
-Updated 3DS Homebrew Starter Pack 
+# Homebrew-Starter-pack
+Updated 3DS/Switch Homebrew Starter Pack 
